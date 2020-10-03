@@ -1,4 +1,4 @@
 <FileStart>
      <Echo>Client 3</Echo>
-	 <Validate>C=D,F=G</Validate>
+	 <Validate>C=D,F=G,X=Z</Validate>
 </FileStart>
